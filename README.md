@@ -127,3 +127,7 @@ This Expense Tracker project is a complete mini data analysis system that:
 ## 🔥 Summary
 
 This project demonstrates strong practical knowledge of Python, data processing, and visualization techniques, making it highly suitable for academic submissions and portfolio projects.
+
+## 👨‍💻 Author
+
+**Jiya Patel**
